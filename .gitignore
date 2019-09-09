@@ -1,0 +1,13 @@
+
+target/original-AWS-Lambda-Java-Mysql-0.0.1-SNAPSHOT.jar
+target/maven-archiver/pom.properties
+target/classes/com/aws/lambda/online/MySqlTest.class
+target/classes/com/aws/lambda/online/data/ResponseDetails.class
+target/classes/com/aws/lambda/online/data/RequestDetails.class
+target/AWS-Lambda-Java-Mysql-0.0.1-SNAPSHOT.jar
+target/AWS-Lambda-Java-Mysql-0.0.1-SNAPSHOT-shaded.jar
+.classpath
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
